@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ByTTG0sRWcRRRM+JGHwiItKamgtr7wHPvLBW4vq8W4ua6jR7sisHFlWIHrHv2e2juzH+HK9ffcR3uL9X70sSOA==",
+  "success": true,
+  "projectFilePath": "/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/TravelBookingSystem.csproj",
+  "expectedPackageFiles": [
+    "/home/as_abrorov/.nuget/packages/spectre.console/0.48.0/spectre.console.0.48.0.nupkg.sha512",
+    "/home/as_abrorov/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

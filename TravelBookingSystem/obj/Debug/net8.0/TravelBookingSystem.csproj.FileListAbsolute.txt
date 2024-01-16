@@ -1,0 +1,17 @@
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/bin/Debug/net8.0/TravelBookingSystem
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/bin/Debug/net8.0/TravelBookingSystem.deps.json
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/bin/Debug/net8.0/TravelBookingSystem.runtimeconfig.json
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/bin/Debug/net8.0/TravelBookingSystem.dll
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/bin/Debug/net8.0/TravelBookingSystem.pdb
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/obj/Debug/net8.0/TravelBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/obj/Debug/net8.0/TravelBookingSystem.AssemblyInfoInputs.cache
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/obj/Debug/net8.0/TravelBookingSystem.AssemblyInfo.cs
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/obj/Debug/net8.0/TravelBookingSystem.csproj.CoreCompileInputs.cache
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/obj/Debug/net8.0/TravelBookingSystem.dll
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/obj/Debug/net8.0/refint/TravelBookingSystem.dll
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/obj/Debug/net8.0/TravelBookingSystem.pdb
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/obj/Debug/net8.0/TravelBookingSystem.genruntimeconfig.cache
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/obj/Debug/net8.0/ref/TravelBookingSystem.dll
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/bin/Debug/net8.0/Spectre.Console.dll
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/obj/Debug/net8.0/TravelBookingSystem.csproj.AssemblyReference.cache
+/home/as_abrorov/RiderProjects/TravelBookingSystem/TravelBookingSystem/obj/Debug/net8.0/TravelBookingSystem.csproj.CopyComplete
